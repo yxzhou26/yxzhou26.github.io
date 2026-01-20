@@ -6,10 +6,6 @@ pubDatetime: 2026-01-21T00:00:00Z
 slug: format-test
 featured: false
 draft: false
-tags:
-  - test
-  - markdown
-  - format
 ---
 
 ## 简介
